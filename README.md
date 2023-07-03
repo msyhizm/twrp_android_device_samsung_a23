@@ -1,4 +1,4 @@
-# Android device tree for samsung SM-A235F (a23)
+# TWRP device tree for samsung SM-A235F (a23)
 
 ```
 #
