@@ -1,10 +1,10 @@
 # TWRP device tree for samsung SM-A235F (a23)
 
+Add to
+`.repo/local_manifests/a23.xml`
+
 ```
-#
-# Copyright (C) 2023 The Android Open Source Project
-# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
-#
-# SPDX-License-Identifier: Apache-2.0
-#
+<manifest>
+  <project path="device/samsung/a23" name="android_device_samsung_a23" remote="TeamWin" revision="android-13.0"
+</manifest>
 ```
