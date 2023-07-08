@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/samsung/a23/device.mk)
 
 PRODUCT_DEVICE := a23
-PRODUCT_NAME := omni_a23
+PRODUCT_NAME := twrp_a23
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A235F
 PRODUCT_MANUFACTURER := samsung
